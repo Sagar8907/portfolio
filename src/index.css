@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+  background-image: url("./bg.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+Hero{
+ font-size: 78px;
+}
